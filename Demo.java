@@ -5,7 +5,6 @@ public class Demo{
     System.out.println("Application started successfully.");
     System.out.println("Initializing application modules...");
     System.out.println("Loading configuration properties...");
-    System.out.println("Job successfully execute...");
     System.out.println("Application is running...");
   }
 
